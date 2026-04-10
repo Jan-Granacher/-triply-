@@ -20,7 +20,7 @@ def generate_food_delivery_price():
 
 
 
-def main():
+def main(): ## add Jan
 
 # Create socket to connect the server to the client
 
